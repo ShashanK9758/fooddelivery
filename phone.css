@@ -1,0 +1,26 @@
+.navbar li a {
+  font-size: 12px;
+  padding: 10px 1px;
+}
+.container {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container img {
+  width: 80px;
+  height: 80px;
+}
+.box {
+  padding: 20px;
+  width: 80%;
+}
+.logo {
+  flex-wrap: wrap;
+}
+.logo img {
+  width: 25%;
+}
+.form-group input {
+  width: 340px;
+}
